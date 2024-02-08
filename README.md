@@ -1,6 +1,6 @@
 # BizBite
 <p align="left">
-  <img width="150" alt="BizBite Icon" src="https://github.com/garcia16/desarrolloAppNegocio/assets/60000132/e928bf38-1bfe-4bae-b045-6758b489195a" />
+  <img width="150" alt="BizBite Icon" src="https://github.com/garcia16/BizBite/assets/60000132/23e368b8-a5fd-4655-851a-d6ec7039ecb8" />
   <a href="https://www.youtube.com/watch?v=MLu6kpOnB8o" target="_blank" rel="noopener noreferrer">
     <img align="right" width="250" alt="YouTube Video Demo" src="https://img.youtube.com/vi/MLu6kpOnB8o/0.jpg" />
   </a>
@@ -46,16 +46,16 @@ To explore all the features that BizBite has to offer, we highly recommend readi
 ## 📸 Screenshots 📸
 
 - **Log In**
-<img width="226" alt="Log In" src="https://github.com/garcia16/desarrolloAppNegocio/assets/60000132/6fcbde12-7f33-4a09-be31-b19ea81c9ab9">
+<img width="226" alt="Log In" src="https://github.com/garcia16/BizBite/assets/60000132/48dae87f-1ee0-4798-bf52-8bc44b3d8948">
 
 - **Home**
-<img width="226" alt="Home" src="https://github.com/garcia16/desarrolloAppNegocio/assets/60000132/edfe728d-2ebc-49d7-9b78-ed838cc323f8">
+<img width="226" alt="Home" src="https://github.com/garcia16/BizBite/assets/60000132/8589fb07-519b-4159-925a-98085203eefc">
 
 - **Warehouse**
-<img width="226" alt="Warehouse" src="https://github.com/garcia16/desarrolloAppNegocio/assets/60000132/3eaf5558-b191-46b9-aea0-0f67c1fcc807">
+<img width="226" alt="Warehouse" src="https://github.com/garcia16/BizBite/assets/60000132/925a62a2-dd35-4b84-9ae4-8b792db462cb)">
 
 - **Sales**
-<img width="226" alt="Sales" src="https://github.com/garcia16/desarrolloAppNegocio/assets/60000132/76f179f6-6aea-4d4d-90e7-5fa207a5b050">
+<img width="226" alt="Sales" src="https://github.com/garcia16/BizBite/assets/60000132/3407bb82-f062-4a47-905c-f0391b877c68)">
 
 - **Company**
-<img width="226" alt="Company" src="https://github.com/garcia16/desarrolloAppNegocio/assets/60000132/30c6d5d8-7590-4122-b6c8-51aabe3bdb93">
+<img width="226" alt="Company" src="https://github.com/garcia16/BizBite/assets/60000132/7952edc2-327e-4e3c-8f27-66f822d171fe">
