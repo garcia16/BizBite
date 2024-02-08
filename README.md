@@ -1,9 +1,6 @@
 # BizBite
 <p align="left">
   <img width="150" alt="BizBite Icon" src="https://github.com/garcia16/BizBite/assets/60000132/23e368b8-a5fd-4655-851a-d6ec7039ecb8" />
-  <a href="https://www.youtube.com/watch?v=MLu6kpOnB8o" target="_blank" rel="noopener noreferrer">
-    <img align="right" width="250" alt="YouTube Video Demo" src="https://img.youtube.com/vi/MLu6kpOnB8o/0.jpg" />
-  </a>
 </p>
 
 ##  ℹ️ Introduction ℹ️
