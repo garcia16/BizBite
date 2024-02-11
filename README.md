@@ -4,7 +4,7 @@
 </p>
 <p align="right">
   <a href="https://www.youtube.com/watch?v=rq8CcZJPtSI" target="_blank" rel="noopener noreferrer">
-    <img width="250" alt="YouTube Video Demo" src="https://i9.ytimg.com/vi/rq8CcZJPtSI/mqdefault.jpg?v=65c8e0e8&sqp=CMjGo64G&rs=AOn4CLD3ni9AVB-RihxdmEwGZlb3ZfvMYw" />
+    <img width="250" alt="YouTube Video Demo" target="_blank" src="https://i9.ytimg.com/vi/rq8CcZJPtSI/mqdefault.jpg?v=65c8e0e8&sqp=CMjGo64G&rs=AOn4CLD3ni9AVB-RihxdmEwGZlb3ZfvMYw" />
     <br>
     <strong>Watch the Demo on YouTube</strong>
   </a>
