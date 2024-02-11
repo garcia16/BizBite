@@ -2,6 +2,13 @@
 <p align="left">
   <img width="150" alt="BizBite Icon" src="https://github.com/garcia16/BizBite/assets/60000132/23e368b8-a5fd-4655-851a-d6ec7039ecb8" />
 </p>
+<p align="right">
+  <a href="https://www.youtube.com/watch?v=rq8CcZJPtSI" target="_blank" rel="noopener noreferrer">
+    <img width="250" alt="YouTube Video Demo" src="https://i9.ytimg.com/vi/rq8CcZJPtSI/mqdefault.jpg?v=65c8e0e8&sqp=CMjGo64G&rs=AOn4CLD3ni9AVB-RihxdmEwGZlb3ZfvMYw" />
+    <br>
+    <strong>Watch the Demo on YouTube</strong>
+  </a>
+</p>
 
 ##  ℹ️ Introduction ℹ️
 
